@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Resizer</title>
+    <link rel="stylesheet" type="text/css" href="resizepixel.css">
+  </head>
+  <body>
+    <h1>Image Resizer</h1>
+    <input type="file" id="inputImage" accept="image/*">
+    <label for="inputWidth">Width:</label>
+    <input type="number" id="inputWidth" placeholder="Width in pixels">
+    <label for="inputHeight">Height:</label>
+    <input type="number" id="inputHeight" placeholder="Height in pixels">
+    <button onclick="resizeImage()">Resize Image</button>
+    <div id="resizedImage"></div>
+    <a id="downloadLink" href="#" download>Download Resized Image</a>
+    <script src="resizepixel.js"></script>
+  </body>
+</html>
