@@ -1,0 +1,17 @@
+C:\Users\snksb\source\repos\harshproject\harshproject\bin\Debug\net6.0-windows\harshproject.exe
+C:\Users\snksb\source\repos\harshproject\harshproject\bin\Debug\net6.0-windows\harshproject.deps.json
+C:\Users\snksb\source\repos\harshproject\harshproject\bin\Debug\net6.0-windows\harshproject.runtimeconfig.json
+C:\Users\snksb\source\repos\harshproject\harshproject\bin\Debug\net6.0-windows\harshproject.dll
+C:\Users\snksb\source\repos\harshproject\harshproject\bin\Debug\net6.0-windows\harshproject.pdb
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.Form1.resources
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.csproj.GenerateResource.cache
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.AssemblyInfoInputs.cache
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.AssemblyInfo.cs
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.csproj.CoreCompileInputs.cache
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.dll
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\refint\harshproject.dll
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.pdb
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.genruntimeconfig.cache
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\ref\harshproject.dll
+C:\Users\snksb\source\repos\harshproject\harshproject\obj\Debug\net6.0-windows\harshproject.Properties.Resources.resources
