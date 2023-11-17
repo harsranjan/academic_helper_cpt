@@ -1,0 +1,16 @@
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\bin\Debug\net6.0-windows\harshbasiccalculator.exe
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\bin\Debug\net6.0-windows\harshbasiccalculator.deps.json
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\bin\Debug\net6.0-windows\harshbasiccalculator.runtimeconfig.json
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\bin\Debug\net6.0-windows\harshbasiccalculator.dll
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\bin\Debug\net6.0-windows\harshbasiccalculator.pdb
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.Form1.resources
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.csproj.GenerateResource.cache
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.AssemblyInfoInputs.cache
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.AssemblyInfo.cs
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.csproj.CoreCompileInputs.cache
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.dll
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\refint\harshbasiccalculator.dll
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.pdb
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\harshbasiccalculator.genruntimeconfig.cache
+C:\Users\snksb\source\repos\harshbasiccalculator\harshbasiccalculator\obj\Debug\net6.0-windows\ref\harshbasiccalculator.dll
