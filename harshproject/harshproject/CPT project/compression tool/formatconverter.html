@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Converter</title>
+    <link rel="stylesheet" type="text/css" href="formatconverter.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Image Converter</h1>
+      <div class="card">
+        <h2>Select an Image File</h2>
+        <input type="file" id="imageInput">
+        <br>
+        <h2>Select a Format</h2>
+        <select id="formatSelect">
+          <option value="jpeg">JPEG</option>
+          <option value="png">PNG</option>
+          <option value="webp">WebP</option>
+        </select>
+        <br>
+        <button onclick="convertImage()">Convert Image</button>
+      </div>
+      <div class="card">
+        <h2>Converted Image</h2>
+        <img id="convertedImg">
+        <br>
+        <a id="downloadLink" download>Download Converted Image</a>
+      </div>
+    </div>
+    <script src="formatconverter.js"></script>
+  </body>
+</html>

@@ -1,0 +1,106 @@
+/* Your existing styles, including the tile styles from the previous answer */
+
+/* Style the header */
+header {
+    background-color: #05baf7;
+    color: #fff;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Style the footer */
+footer {
+    background-color: #05baf7;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/* Your existing styles */
+
+/* Style the tiles */
+.tiles {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    margin: 20px auto;
+    align-self: auto;
+}
+
+.tile {
+    width: 250px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    background-color: #268794;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+}
+
+.tile img {
+    max-width: 100px;
+    max-height: 100px;
+    align-self: auto;
+}
+
+.tile h2 {
+    font-size: 18px;
+    margin: 18px 0;
+    align-self: center;
+}
+
+.popup {
+    display: none;
+    position: absolute;
+    background-color: rgba(15, 86, 79, 0.8);
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+
+.tile:hover .popup {
+    display: block;
+}

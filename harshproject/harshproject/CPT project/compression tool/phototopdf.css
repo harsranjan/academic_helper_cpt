@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+  }
+  
+  input[type="file"],
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+  
+  #pdf {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #downloadLink {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
